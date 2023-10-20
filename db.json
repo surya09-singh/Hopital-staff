@@ -1,0 +1,91 @@
+{
+  "users": [
+    {
+      "email": "modi@gmail.com",
+      "password": "$2a$10$loRpuwnhkJHM3XzVZ4k8PufHC8X5RJGarJ/KMuROCRf/XdaTjPexe",
+      "name": "modi",
+      "id": 1
+    },
+    {
+      "email": "raj@gmail.com",
+      "password": "$2a$10$b0qMvfEAD7xmXNRTUi0gYevBP.PFrae49inWXPTgiIrSh4zO71jBC",
+      "name": "Raj srivastav",
+      "id": 2
+    },
+    {
+      "email": "safdsghd@gmail.com",
+      "password": "$2a$10$JXoQZo541EZrv8KtJq2tz.Hx1czNpv567HBIvOEYmo1U71cPHhucC",
+      "name": "",
+      "id": 3
+    },
+    {
+      "email": "yogi@gmail.com",
+      "password": "$2a$10$ZJ7L6OWg7yXYRdHiYi.6M.WAW0nB9HtF1POtnRBoHya7bfk7TLsFG",
+      "name": "yogi",
+      "id": 4
+    }
+  ],
+  "badid": [
+    {
+      "badnumber": "ICU-1",
+      "id": 1
+    },
+    {
+      "badnumber": "ICU-2",
+      "id": 2
+    },
+    {
+      "badnumber": "ICU-3",
+      "id": 3
+    }
+  ],
+  "doctorid": [
+    {
+      "doctorname": "Dr.Dheeraj",
+      "id": 1
+    },
+    {
+      "doctorname": "Dr.Raj",
+      "id": 2
+    },
+    {
+      "doctorname": "Dr.Mohan",
+      "id": 3
+    }
+  ],
+  "patientdetail": [
+    {
+      "name": "Prince",
+      "address": "Lucknow",
+      "guardian": "xyz",
+      "doctorname": "Dr.Dheeraj",
+      "badnumber": "ICU-1",
+      "admitdate": "2023-10-18",
+      "time": "11:04",
+      "status": "Admit",
+      "id": 1
+    },
+    {
+      "name": "Divyanshi",
+      "address": "Lucknow",
+      "guardian": "zop",
+      "doctorname": "Dr.Raj",
+      "badnumber": "ICU-2",
+      "admitdate": "2023-10-18",
+      "time": "11:05",
+      "status": "Admit",
+      "id": 2
+    },
+    {
+      "name": "jai",
+      "address": "lucknow",
+      "guardian": "xyz",
+      "doctorname": "Dr.Raj",
+      "badnumber": "ICU-2",
+      "admitdate": "2023-10-18",
+      "time": "11:18",
+      "status": "Admit",
+      "id": 3
+    }
+  ]
+}
